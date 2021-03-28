@@ -2,6 +2,7 @@
 author: Proposé par les enseignants de l'IUT de LENS
 title: Agil'IT
 date: 30 et 31 mars 2021
+Soutenance : le 1er avril après -midi.
 ---
 
 # Introduction
