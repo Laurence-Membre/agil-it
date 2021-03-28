@@ -113,10 +113,8 @@ date: 30 et 31 mars 2021
 
  <br/><br/>
 
- * Trello
- * Slack ou [Mattermost](https://mattermost.univ-artois.fr)
  * git + [Gitlab](https://gitlab.univ-artois.fr) 
-
+ Zoom pour les présentations
 --- 
 
 ### Langage de programmation à utiliser
